@@ -1,0 +1,69 @@
+[
+    {
+        "id": 10001,
+        "quote": "Love is a friendship set to music.",
+        "author": "Joseph Campbell",
+        "biography": "Philosopher & writer who explored the human experience in relation to the universe."
+    },
+    {
+        "id": 10002,
+        "quote": "Love all, trust a few, do wrong to none.",
+        "author": "William Shakespeare",
+        "biography": "16th century English playwright & poet widely considered the world's greatest dramatist."
+    },
+    {
+        "id": 10003,
+        "quote": "Love does not consist of gazing at each other, but in looking outward together in the same direction.",
+        "author": "Antoine de Saint-Exupéry",
+        "biography": "20th Century French writer, poet & aviator best known for his novel The Little Prince."
+    },
+    {
+        "id": 10004,
+        "quote": "Love is not blind; it simply enables one to see things others fail to see.",
+        "author": "Anonymous",
+        "biography": "Unknown author"
+    },
+    {
+        "id": 10005,
+        "quote": "Love is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us.",
+        "author": "Paulo Coelho",
+        "biography": "Brazilian lyricist and novelist whose works explore spiritual themes such as love and personal growth."
+    },
+    {
+        "id": 10006,
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "biography": "American poet who won four Pulitzer Prizes for his works."
+    },
+    {
+        "id": 10007,
+        "quote": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+        "author": "Steve Jobs",
+        "biography": "Co-founder and former CEO of Apple Inc., entrepreneur and inventor who revolutionized the computer and technology industry."
+    },
+    {
+        "id": 10008,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "biography": "26th President of the United States, writer and explorer."
+    },
+    {
+        "id": 10009,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "biography": "Austrian-born American management consultant, educator and author."
+    },
+    {
+        "id": 10010,
+        "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "biography": "18th-century British statesman, author, orator, political theorist, and philosopher."
+    },
+    {
+        "id": 10011,
+        "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+        "author": "Albert Einstein",
+        "biography": "Theoretical physicist who is widely regarded as the greatest scientist of the 20th century."
+    }
+
+]
