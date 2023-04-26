@@ -25,7 +25,7 @@ const QuoteList = ({ searchTerm, useTestJson }) => {
         },
         {
           headers: {
-            Authorization: `Bearer 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`,
+            Authorization: ``,
           },
         }
       );
